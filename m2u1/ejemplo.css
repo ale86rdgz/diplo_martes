@@ -1,0 +1,23 @@
+/* font-family: "Tangerine", cursive; */
+/* font-family: "Domine", serif; */
+
+
+#caja {
+  height: 300px;
+  width: 300px;
+  /*background-color: yellow;*/
+  margin: 100px;
+  padding: 20px;
+  background: rgb(252,252,252);
+  background: linear-gradient(45deg, rgba(252,252,252,1) 0%, rgba(253,163,45,1) 100%);
+ 
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px black;
+  /*eje x, eje y, desenfoque, color*/
+  border: 2px solid gray;
+}
+
+p{
+    font-family: "Domine", serif; */
+    
+}
